@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# Large regenerable artifacts (recreate via `python main.py --force`)
+outputs/features/*.npy
+outputs/models/*.joblib
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

@@ -1,0 +1,17 @@
+torch
+torchvision
+tensorflow
+scikit-learn
+transformers
+datasets
+langchain
+langchain-community
+langchain-huggingface
+langgraph
+pandas
+numpy
+matplotlib
+pillow
+requests
+huggingface_hub
+joblib
