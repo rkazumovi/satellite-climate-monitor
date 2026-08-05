@@ -180,7 +180,7 @@ python src\visualize.py
 
 ## Stack
 
-Python · PyTorch · torchvision · TensorFlow · scikit-learn · Hugging Face Transformers & Datasets · LangChain · Pandas · NumPy · Matplotlib · Pillow
+Python · PyTorch · TorchVision · TensorFlow · Scikit-learn · Hugging Face Transformers & Datasets · LangChain · Pandas · NumPy · Matplotlib · Pillow
 
 ## Notes & Honesty Disclosures
 
